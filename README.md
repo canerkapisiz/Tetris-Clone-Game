@@ -2,7 +2,11 @@
 This is my work with **Unity** to create a clone of the **Tetris** game.
 
 ## Mechanical
-
+  * Grid movement
+    * With arrow keys or touches 
+  * Line 
+    * When Shapes are placed in a line, the line is cleared
+    
 ## UI
   * Main menu
     * Play
